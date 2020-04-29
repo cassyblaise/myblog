@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://victoriassecret.netlify.app/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved | Design by caslify',
+  title: 'Blog by cassy blaise',
+  subtitle: 'Cassy blaise lives and works in Lagos State building useful things. ',
+  copyright: '© All rights reserved | Design By Caslify',
 
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,12 +26,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'cassy blaise',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Problem solver, Writer, Coder, Business person',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: 'https://facebook.com/cassy',
       telegram: '#',
       twitter: '#',
       github: '#',
