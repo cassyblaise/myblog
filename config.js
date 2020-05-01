@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://victoriassecret.netlify.app/',
   pathPrefix: '/',
-  title: 'Blog by cassy blaise',
-  subtitle: 'Cassy blaise lives and works in Lagos State building useful things. ',
+  title: 'Blog by Victoria Abifarin',
+  subtitle: 'Cassy blaise lives and works in Lagos State building useful things.',
   copyright: '© All rights reserved | Design By Caslify',
 
   disqusShortname: '',
@@ -26,14 +26,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'cassy blaise',
+    name: 'Victoria Abifarin',
     photo: '/photo.jpg',
-    bio: 'Problem solver, Writer, Coder, Business person',
+    bio: 'A writer, web developer, a stylist, and an aspiring Model, an entrepreneur. I lives and works in Jos, writing and building useful things.',
     contacts: {
       email: '',
-      facebook: 'https://facebook.com/cassy',
+      facebook: 'https://facebook.com/',
       telegram: '#',
-      twitter: '#',
+      twitter: 'https://twitter.com/VAbifarin',
       github: '#',
       rss: '',
       vkontakte: '',
