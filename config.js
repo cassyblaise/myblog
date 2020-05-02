@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://victoriassecret.netlify.app/',
   pathPrefix: '/',
   title: 'Blog by Victoria Abifarin',
-  subtitle: 'Cassy blaise lives and works in Lagos State building useful things.',
+  subtitle: 'lives and works in Lagos State building useful things.',
   copyright: '© All rights reserved | Design By Caslify',
 
   disqusShortname: '',
@@ -28,7 +28,7 @@ module.exports = {
   author: {
     name: 'Victoria Abifarin',
     photo: '/photo.jpg',
-    bio: 'A writer, web developer, a stylist, and an aspiring Model, an entrepreneur. I lives and works in Jos, writing and building useful things.',
+    bio: 'A writer, coder, a stylist, and an aspiring Model, an entrepreneur. I lives and works in Jos, writing and building useful things.',
     contacts: {
       email: '',
       facebook: 'https://facebook.com/',
