@@ -1,10 +1,10 @@
 ---
 template: post
-slug: perfecting-the-art-of-perfection
+slug: perfecting-the-art-of-perfection42
 draft: false
 socialImage: /media/image-2.jpg
-title: Perfecting the Art of Perfection20
-date: 2016-09-01T23:46:37.121Z
+title: Perfecting the Art of Perfection24
+date: 2020-05-03T18:25:02.311Z
 description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
   at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus
   orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui.
