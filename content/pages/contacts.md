@@ -3,7 +3,7 @@ template: page
 title: Contact me
 socialImage: /media/image-4.jpg
 slug: Contact-me
-draft: true
+draft: false
 ---
 Hey there Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
