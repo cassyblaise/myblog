@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://victoriassecret.netlify.app/',
+  url: 'https://victoriassecret.netlify.app',
   pathPrefix: '/',
   title: 'Blog by Victoria Abifarin',
   subtitle: 'lives and works in Lagos State building useful things.',
